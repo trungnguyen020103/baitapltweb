@@ -1,0 +1,85 @@
+.table-left {
+    border-style: double;
+    background-color: yellow;
+    flex-basis: 30%;
+
+}
+nav{
+  padding-bottom: 20px;
+}
+.table-right {
+    border-style: double;
+    background-color: #51585e;
+    flex-basis: 70%;
+}
+.header-section{
+    border-style: solid;
+    margin-top:20px;
+    text-align: center;
+    border-width: medium;
+}
+.navigationbar{
+    border-style: solid;
+    text-align: center;
+    border-top-width: thin;
+}
+.index-contensection{
+    display: flex;
+    border-style: solid;
+    border-top-width: thin;
+    height: 200px;
+}
+.index{
+    flex-basis: 20%;
+    text-align: center;
+
+}
+.contensection{
+    flex-basis: 80%;
+    border-left: solid;
+    text-align: center;
+}
+.footersection{
+    text-align: center;
+    border-style: solid;
+    border-top-width: thin;
+
+}
+.headersection3{
+    margin-top: 20px;
+    margin-left: 20%;
+    background-color: #d50909;
+    width: 900px;
+    height: 120px;
+    text-align: center;
+    border-style: solid;
+}
+.companyImage{
+    margin-left: 20%;
+     border-style: solid;
+    margin-top: 20px;
+    text-align: center;
+    width: 900px;
+    height: 200px;
+    background-color: #6c757d;
+}
+.service{
+margin-left: 30%;
+}
+.service1{
+    display: flex;
+}
+.service2{
+    display: flex;
+}
+.service-cell{
+    height: 220px;
+    width:180px;
+    text-align: center;
+    border-style: solid;
+    margin: 20px;
+    background-color: #969ca2;
+}
+.footersection{
+    background-color: #0a53be;
+}
