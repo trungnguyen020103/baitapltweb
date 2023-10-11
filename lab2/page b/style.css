@@ -1,0 +1,296 @@
+#page{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1175px;
+    margin-top: 0px;
+}
+#section_text_2{
+    width: 1860px;
+    height: 115px;
+    background-color: hsl(0deg 0% 95.29%);
+    margin-left: -340px;
+}
+#section_text_2 .container{
+
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1175px;
+}
+#section_text_2 .alpha{
+    float: left;
+    padding-top: 5px;
+}
+#section_text_2 .omega{
+    float: right;
+    background-color: hsl(23.71deg 92.92% 55.69%);
+    width: 160px;
+    height: 36px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+#section_text_2 .omega .orange_bg{
+    color: white;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+#section_header_1 .containerss{
+width: 1116px;
+}
+#section_header_1 .right_socials{
+display: flex;
+float: right;
+    margin-left: 30px;
+}
+#section_header_1 .bottom-icons{
+    display: flex;
+    margin-top: 25px;
+}
+#section_header_1 .bottom-icons li{
+    margin-left: 10px;
+
+}
+.bentrai{
+    float: left;
+    display: flex;
+    width: 500px;
+}
+.bentrai .navbar-left{
+    display: flex;
+    width: 500px;
+    flex-direction: row;
+
+}
+.bentrai li{
+    margin-left: 55px;
+    margin-top: 15px;
+
+}
+
+
+
+
+.image {
+    position: relative; /* Đảm bảo phần tử "text" là con của phần tử "image" */
+}
+
+.image img {
+    /* CSS cho hình ảnh */
+    width: 100%;
+    height: auto;
+}
+
+.image .text {
+    /* CSS cho phần tử "text" */
+    position: absolute;
+    top:90%;
+   left: 30%;
+    transform: translate(-50%, -50%);
+
+    padding: 10px;
+    color: #ffffff;
+
+}
+
+#section_slider{
+    margin-left: -270px;
+    width: 1800px;
+    background-color:  hsl(0deg 0% 93.33%);
+    height: 650px;
+}
+.carousel-item{margin-top: 5%}
+#section_gym_4{
+    margin-top: 10%;
+}
+#section_gym_4 .top_padding{
+    display: flex;
+}
+#section_gym_4 .column{
+    margin-left: 10%;
+}
+#section_gym_4 .link_3_btn{
+    background-color: hsl(25deg 100% 60%);
+        margin-left: 20%;
+    border-radius: 10px;
+}
+.gym_st{
+    font-weight: bold;
+    font-size: 25px;
+}
+.img_gym_st{
+    width: 200px;
+    height: 200px;
+}
+.img_gym_st .logo_style{
+    border-radius: 50%;
+    width: 100%;
+}
+#section_intro_title{
+    background-color: hsl(0deg 0% 95.29%);
+}
+#section_intro_title .container{
+    display: flex;
+
+
+}
+#section_intro_title .one-third{
+    margin-top: 20px;
+    margin-bottom: 20px;
+margin-left: 10%;
+    border-style: solid;
+    border-color: hsl(0deg 0% 87.45%);
+    border-radius: 5px;
+    width: 400px;
+    height: 500px;
+}
+#section_intro_title .big_title{
+    font-size: 40px;
+    text-align: center;
+    color: #6c757d;
+
+}
+#section_intro_title   .blue_text{
+    color: hsl(192.83deg 80.26% 54.31%);
+}
+#section_intro_title .orange{
+    color: hsl(23.71deg 92.92% 55.69%);
+}
+#section_intro_title .big_title.blue_text.editContent{
+    text-align: center;
+    padding-top: 60px;
+}
+#section_intro_title .big_title.orange{
+    text-align: center;
+    padding-top: 60px;
+}
+#section_intro_title .light_gray.editContent{
+    text-align: center;
+}
+#section_intro_title .pix_text{
+
+    list-style: none;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+#section_intro_title .btn_big{
+    width: 215px;
+    height: 70px;
+margin-left: 25%;
+
+}
+
+#section_intro_title .blue_bg{
+ display:block;
+    width: 200px;
+    height: 60px;
+  border-radius: 5px;
+margin-left: 15%;
+    text-align: center;
+    padding-top: 15px;
+    background-color: hsl(23.71deg 92.92% 55.69%);
+    font-weight: bold;
+    color: white;
+}
+#section_intro_title .orange_bg{
+    display:block;
+    width: 200px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 15%;
+    text-align: center;
+    padding-top: 15px;
+    background-color: hsl(192.83deg 80.26% 54.31%);
+    font-weight: bold;
+    color: white;
+}
+
+
+.footer .editContentt {
+text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+.footer .subtext_style{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.footer{
+    background-color: hsl(0deg 0% 9.8%);
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerr{
+    height:450px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 12px;
+    background-color: hsl(0deg 0% 8.24%);
+    border-radius: 2px;
+    border-style: solid;
+}
+#name{
+    display: inline-block;
+    width: 520px;
+    height: 65px;
+}
+#email{
+    margin-top: 15px;
+    display: inline-block;
+    width: 520px;
+    height: 65px;
+}
+#submit_btn_15{
+    margin-top: 15px;
+    display: inline-block;
+    width: 520px;
+    height: 65px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: hsl(213.12deg 82.76% 54.51%);
+}
+#section_party_4 .container{
+    padding-top: 3%;
+}
+#section_party_4 {
+    background-color: hsl(0deg 0% 8.24%);
+    height: 100px;
+}
+#section_party_4  .alpha{
+    float: left;
+}
+#section_party_4 .editContent{
+    font-size: 20px;
+    color: hsl(54.19deg 12.35% 50.78%);
+}
+#section_party_4 .omega{
+    float: right;
+}
+#section_party_4 .socbuttons{
+width: 450px;
+
+}
+#section_party_4 .bottom-icons{
+    display: flex;
+    list-style: none;
+    float: right;
+}
+#section_party_4 .light_gray{
+    margin-left: 5px;
+
+}
+#section_party_4 .likes_st{
+    margin-left: 15px;
+    font-size: 20px;
+
+}
