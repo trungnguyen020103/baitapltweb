@@ -1,0 +1,114 @@
+body{
+    width: 530px;
+
+    margin: auto;
+}
+.container{
+    background-color:hsl(0deg 0% 100%);
+    width: auto;
+    height: 740px;
+    position: relative;
+}
+.containerss{
+ margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 455px;
+    height: 670px;
+
+    position: absolute;
+}
+.text{
+    color:hsl(88.65deg 72.95% 47.84%);
+}
+
+.input-text{
+    width: 400px;
+    height: 50px;
+    background-color: hsl(0deg 0% 97.65%);
+
+}
+.fullname, .email, .password, .card-cvc,.card-number{
+display: flex;
+    margin-top: 10px;
+
+}
+.icon{
+    width: 50px;
+    height: 53px;
+    border-style: solid;
+    border-width: thin;
+
+}
+.fa-solid{
+    margin-top: 30%;margin-left: 35%;
+}
+.ngay_text{
+    width: 50px;
+    height: 50px;
+    background-color: hsl(0deg 0% 97.65%);
+    margin-left: 5px;
+
+}
+.tex{
+    display: flex;
+
+}
+.t2{
+   margin-left: 27%;
+}
+.ngay_text::placeholder , .gioitinh_in::placeholder{
+    text-align: center;
+    font-weight: bold;
+}
+.gioitinh_in{
+    margin-left: 5px;
+    width: 120px;
+    background-color: hsl(0deg 0% 97.65%);
+}
+.gender{
+    display: flex;
+    margin-left: 10px;
+}
+.dareofbirth{
+    display: flex;
+}
+.session2{
+display: flex;
+
+}
+.pay{
+    display: flex;
+}
+.payment-in{
+width: 280px;
+    height: 50px;
+
+}
+.payment-in::placeholder{
+    text-align: center;
+}
+.credit{
+    background-color:hsl(88.65deg 72.95% 47.84%) ;
+}
+.option-date{
+    display: flex;
+}
+#month, #year{
+    width: 30%;
+    height: 60px;
+    margin-top: 10px;
+    background-color: hsl(0deg 0% 97.65%);
+
+}
+#month{
+    margin-left: 10px;
+}
+.check{
+    display: flex;
+}
+.check p{
+    width: 100%;
+    margin-left: 5px;
+}

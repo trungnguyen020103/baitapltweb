@@ -1,0 +1,94 @@
+
+.container{
+    background-color: #b4c0bc;
+  width:700px;
+    height: 700px;
+}
+body{
+    display: flex;
+
+    justify-content: center;
+}
+.ten {
+    margin-top: 5px;
+    background-color: #adbec7;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: thin;
+    width: 97%;
+    margin-left: 10px;
+    border-color: #838e94;
+    margin-right: 10px;
+}
+.ten p{
+    height: 5px;
+    padding-left: 10px;
+}
+.ten input{
+    height: 40px;
+    border-style: none;
+    background-color:#adbec7;
+  border-color: #adbec7 ;
+    padding-left: 10px;
+}
+.ten input:focus{
+    outline: none;
+    border: none
+;
+}
+.email-phone{
+    display: flex;
+}
+.option{
+    margin-top: 10px;
+    background-color:#adbec7 ;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 5px;
+    border-color: #838e94;
+}
+.option p{
+    margin-left: 10px;
+
+}
+.select_st{
+    width: 680px;
+}
+.pix_text:focus{
+    outline: none;
+}
+.pix_text{
+    width: 650px;
+    height: 20px;
+    border: none;
+    background-color: #adbec7;
+    margin-left: 10px;
+
+}
+.message{
+    height: 150px;
+    background-color: white;
+}
+.message p{
+    margin-left: 10px;
+}
+#message{
+    background-color: white;
+    width: 650px;
+    height: 100px;
+    margin-left: 10px;
+}
+.submit{
+width: 680px;
+    height: 50px;
+
+    background-color: black;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+

@@ -1,0 +1,82 @@
+body{
+    background-image: url("/img/background.jpg");
+}
+.container{
+    width: 500px;
+    height: 700px;
+    background-color: hsl(60, 13%, 95%);
+    margin: auto;
+    border-radius: 15px;
+}
+.sign{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+    color: hsl(286.67deg 7.63% 53.73%);
+}
+.m{
+    margin-top: 10px;
+}
+.user-name input , .pass-word input{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: bold;
+    color: black;
+    padding-left: 20px;
+    cursor: pointer;
+
+}
+.user-name input:focus, .pass-word input:focus{
+    outline: none;
+}
+.user-name, .pass-word{
+    margin: auto;
+    width: 300px;
+
+}
+.pass-word input{
+  margin-top: 10px;
+}
+.button{
+    width: 200px;
+    margin: auto;
+}
+.btn   {
+    margin-top: 10px;
+    width: 210px;
+    height: 50px;
+    border-style: none;
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 10px 10px 14px purple;
+}
+.or{
+    text-align: center;
+    margin-top: 70px;
+    color: #6c757d;
+}
+
+
+.icon{
+    display: flex;
+    margin-left:45%;
+    margin-top: 5%;
+}
+.fa-google{
+    padding-left: 10px;
+}
+.signup, .signup a{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: hsl(286.67deg 7.63% 53.73%);
+}
+.signup{
+    margin-top: 40%;
+}
